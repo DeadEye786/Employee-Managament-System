@@ -1,2 +1,3 @@
 # Employee-Managament-System
-Spring Boot CRUD Web application with Pagination and Sorting features using Spring Boot, ThymeLeaf, Spring Data JPA, Hibernate, MySQL database
+Employee Management System is a Web application with Pagination and Sorting features using Java, Spring Boot, ThymeLeaf, Spring Data JPA, Hibernate, MySQL database.
+In this web application user can perform CRUD operations.
